@@ -13,9 +13,9 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,16 +58,22 @@ Sunday       17 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.69% 
+JSON                     2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   34.4% 
+Other                    1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.77% 
+Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 27 mins       ██████████████████░░░░░░░   72.23% 
+Browser                  1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.77%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pc-stu-client            4 hrs 30 mins       ██████████████████░░░░░░░   73.17% 
+Unknown Project          1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   26.83% 
+blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +93,5 @@ SCSS                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PeakJ/PeakJ/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 08:38:06 UTC
+ Last Updated on 10/02/2022 08:38:25 UTC
 <!--END_SECTION:waka-->
