@@ -13,8 +13,6 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -97,5 +95,5 @@ SCSS                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PeakJ/PeakJ/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022 08:48:36 UTC
+ Last Updated on 02/03/2022 08:45:37 UTC
 <!--END_SECTION:waka-->
