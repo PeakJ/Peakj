@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C158%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,23 +58,16 @@ Sunday       8 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 41 mins       ██████████████████████░░░   91.33% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-Vue.js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  5 hrs 41 mins       ██████████████████████░░░   91.33% 
-VS Code                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.67%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pc-stu-client            4 hrs 50 mins       ███████████████████░░░░░░   77.83% 
-xeszx-stu-classroom      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-workorder                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -94,5 +87,5 @@ SCSS                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PeakJ/PeakJ/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2023 08:37:43 UTC
+ Last Updated on 26/01/2023 08:37:26 UTC
 <!--END_SECTION:waka-->
