@@ -56,19 +56,16 @@ Sunday                   170 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   48 mins             ███████████████████░░░░░░   77.10 % 
-TypeScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-coach-web-for-betterme   1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +84,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 08:31:51 UTC
+ Last Updated on 16/02/2024 08:32:08 UTC
 <!--END_SECTION:waka-->
