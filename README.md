@@ -13,19 +13,19 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C276%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C281%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 106.1 kB Used in GitHub's Storage 
+> 📦 106.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -71,10 +71,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Objective-C              1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               6 repos             ███████████████░░░░░░░░░░   60.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Objective-C              1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -84,5 +85,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 08:32:08 UTC
+ Last Updated on 18/02/2024 08:32:20 UTC
 <!--END_SECTION:waka-->
