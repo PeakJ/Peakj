@@ -13,7 +13,7 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C281%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C286%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,11 +21,11 @@
 
 > 📦 106.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
+> 🏆 4 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -56,16 +56,23 @@ Sunday                   170 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 41 mins       ██████████████░░░░░░░░░░░   56.30 % 
+Vue.js                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+JavaScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+coach-web-for-betterme   4 hrs 35 mins       █████████████████░░░░░░░░   69.96 % 
+test-quasar              1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+mcc-player               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+coach_client_for_better_m0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +92,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2024 08:32:20 UTC
+ Last Updated on 19/02/2024 08:32:43 UTC
 <!--END_SECTION:waka-->
