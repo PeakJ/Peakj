@@ -56,22 +56,16 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 5 mins        █████████████████████░░░░   82.29 % 
-JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-coach-web-for-betterme   2 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.63 % 
-quasar-template          1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   38.32 % 
-bixin_fe_public          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +85,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2024 08:37:24 UTC
+ Last Updated on 30/07/2024 08:35:11 UTC
 <!--END_SECTION:waka-->
