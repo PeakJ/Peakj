@@ -13,7 +13,7 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C774%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C780%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,22 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   2 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.30 % 
+TypeScript               1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+JavaScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+SCSS                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+coach-web-for-betterme   4 hrs 19 mins       ██████████████████░░░░░░░   71.01 % 
+bixin-classroom-client   1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+quasar-template          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +91,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 08:37:40 UTC
+ Last Updated on 15/08/2024 08:37:22 UTC
 <!--END_SECTION:waka-->
