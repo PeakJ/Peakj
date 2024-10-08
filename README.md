@@ -13,7 +13,7 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C925%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C930%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,20 +56,16 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 23 mins       █████████████████████░░░░   82.04 % 
-TypeScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 11 mins       ████████████████████░░░░░   79.58 % 
-Cursor                   1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-coach-web-for-betterme   7 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +85,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2024 08:41:47 UTC
+ Last Updated on 08/10/2024 08:41:38 UTC
 <!--END_SECTION:waka-->
