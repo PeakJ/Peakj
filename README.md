@@ -56,22 +56,16 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 55 mins        ███████████░░░░░░░░░░░░░░   44.37 % 
-Vue.js                   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-TSConfig                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lit-components           3 hrs 27 mins       ████████████████████░░░░░   79.79 % 
-coach-web-for-betterme   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-gen-painting-pic         10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +85,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2025 08:38:23 UTC
+ Last Updated on 01/02/2025 08:36:21 UTC
 <!--END_SECTION:waka-->
