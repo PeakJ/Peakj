@@ -13,7 +13,7 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C289%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C293%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,24 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
+Vue.js                   57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+JSON                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 49 mins       █████████████████████████   99.70 % 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lit-components           3 hrs 16 mins       ██████████████░░░░░░░░░░░   56.04 % 
+coach-web-for-betterme   1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+bixin_fe_public          1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+learnSourceMap           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +93,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 08:39:44 UTC
+ Last Updated on 06/02/2025 08:39:30 UTC
 <!--END_SECTION:waka-->
