@@ -13,6 +13,8 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C654%20hrs%2036%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -54,26 +56,26 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 34 mins      ███████████░░░░░░░░░░░░░░   43.39 % 
-TypeScript               7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Markdown                 3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-JSON                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Vue                      8 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
+TypeScript               7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+JSON                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 51 mins      ████████████████████░░░░░   81.43 % 
-Claude Code              4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Cursor                   17 hrs 44 mins      ████████████████████░░░░░   78.50 % 
+Claude Code              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   15 hrs 25 mins      ████████████████░░░░░░░░░   63.22 % 
-public-webcomponents     6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-coach-web-for-betterme   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-advancement-system-mp    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-qiwei-report             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+bixin-classroom-client   16 hrs 9 mins       ██████████████████░░░░░░░   71.46 % 
+public-webcomponents     3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+coach-web-for-betterme   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+c89e6aef-9441-426f-b485-731 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+advancement-system-mp    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Mac                      24 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +95,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 10:31:26 UTC
+ Last Updated on 25/07/2026 10:05:07 UTC
 <!--END_SECTION:waka-->
