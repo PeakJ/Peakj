@@ -56,26 +56,26 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      8 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-TypeScript               7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-JSON                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Vue                      8 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
+TypeScript               7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.74 % 
+Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JSON                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 44 mins      ████████████████████░░░░░   78.50 % 
-Claude Code              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Cursor                   17 hrs 37 mins      ████████████████████░░░░░   78.39 % 
+Claude Code              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   16 hrs 9 mins       ██████████████████░░░░░░░   71.46 % 
-public-webcomponents     3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-coach-web-for-betterme   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-c89e6aef-9441-426f-b485-731 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-advancement-system-mp    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+bixin-classroom-client   16 hrs 2 mins       ██████████████████░░░░░░░   71.31 % 
+public-webcomponents     3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+coach-web-for-betterme   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+c89e6aef-9441-426f-b485-731 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+advancement-system-mp    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Mac                      22 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,5 +95,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 10:05:07 UTC
+ Last Updated on 26/07/2026 10:16:44 UTC
 <!--END_SECTION:waka-->
