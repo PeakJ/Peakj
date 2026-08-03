@@ -58,50 +58,50 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
-TypeScript               7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
-Markdown                 3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Vue                      8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
+TypeScript               7 hrs               ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Markdown                 2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 58 mins      ███████████████████░░░░░░   76.24 % 
-Claude Code              5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Cursor                   16 hrs 51 mins      ████████████████████░░░░░   80.43 % 
+Claude Code              4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   12 hrs 36 mins      ██████████████░░░░░░░░░░░   56.66 % 
-public-webcomponents     5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-coach-web-for-betterme   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-agent-tools              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-canvases                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+bixin-classroom-client   11 hrs 59 mins      ██████████████░░░░░░░░░░░   57.24 % 
+public-webcomponents     5 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+coach-web-for-betterme   2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+agent-tools              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+canvases                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-Mac                      22 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 50 mins (75.64%)
+⏱ AI Coding Time: 15 hrs 33 mins (74.21%)
 
-✍️ 8,753 lines written by AI, 259 lines written by hand (97.13% AI-written)
+✍️ 8,746 lines written by AI, 257 lines written by hand (97.15% AI-written)
 
-🔤 48,306,788 Input Tokens, 637,668 Output Tokens
+🔤 44,565,991 Input Tokens, 495,283 Output Tokens
 
-💵 $107.67 Estimated AI Cost This Week
+💵 $106.44 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 220 AI Prompts
+🧠 29 AI Sessions, 214 AI Prompts
 
-GPT                      661 lines           ███████████████░░░░░░░░░░   61.03 % 
-Composer                 378 lines           █████████░░░░░░░░░░░░░░░░   34.90 % 
-Sonnet                   44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+GPT                      661 lines           ████████████████░░░░░░░░░   65.51 % 
+Composer                 304 lines           ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Sonnet                   44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.13% of written lines came from AI
-📚 Verbose Prompter — average 1,542 characters per prompt
+🤖 AI-Driven — 97.15% of written lines came from AI
+📄 Detailed Prompter — average 1,177 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 6.62% of changed lines were hand-edited
+🚀 High AI Trust — 6.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,5 +121,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 10:12:25 UTC
+ Last Updated on 03/08/2026 11:52:11 UTC
 <!--END_SECTION:waka-->
