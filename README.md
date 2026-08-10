@@ -13,7 +13,7 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C791%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C791%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%208%20mins-blue?style=flat)
 
@@ -58,31 +58,32 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
-TypeScript               5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Markdown                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Other                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Vue                      7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+TypeScript               5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Markdown                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Other                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 7 mins       ██████████████████░░░░░░░   70.69 % 
-Claude Code              6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+Cursor                   15 hrs 7 mins       ██████████████████░░░░░░░   70.07 % 
+Claude Code              6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-coach-web-for-betterme   9 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.90 % 
-bixin-classroom-client   5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-bixin_fe_public          5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-teacher-client-lite      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-code_space               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+coach-web-for-betterme   9 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.52 % 
+bixin-classroom-client   5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+bixin_fe_public          5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+teacher-client-lite      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+code_space               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-Mac                      21 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 28 mins (72.28%)
+⏱ AI Coding Time: 15 hrs 28 mins (71.65%)
 
 ✍️ 2,443 lines written by AI, 108 lines written by hand (95.77% AI-written)
 
@@ -120,5 +121,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 09:08:17 UTC
+ Last Updated on 10/08/2026 09:54:06 UTC
 <!--END_SECTION:waka-->
