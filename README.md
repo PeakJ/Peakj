@@ -58,34 +58,33 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      11 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.80 % 
-TypeScript               6 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-JSON                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Vue                      11 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.13 % 
+TypeScript               6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+JSON                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 52 mins      ██████████████████░░░░░░░   72.16 % 
-Claude Code              6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Cursor                   18 hrs 52 mins      ██████████████████░░░░░░░   72.69 % 
+Claude Code              6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
 Agent                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-coach-web-for-betterme   14 hrs 18 mins      ██████████████░░░░░░░░░░░   54.70 % 
-public-webcomponents     4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-bixin-classroom-client   4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-gen-painting-pic         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-terminals                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+coach-web-for-betterme   14 hrs 18 mins      ██████████████░░░░░░░░░░░   55.10 % 
+public-webcomponents     4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+bixin-classroom-client   3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+gen-painting-pic         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+terminals                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Mac                      26 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      25 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 36 mins (78.8%)
+⏱ AI Coding Time: 20 hrs 36 mins (79.38%)
 
 ✍️ 3,035 lines written by AI, 254 lines written by hand (92.28% AI-written)
 
@@ -123,5 +122,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 08:53:22 UTC
+ Last Updated on 17/08/2026 09:06:02 UTC
 <!--END_SECTION:waka-->
