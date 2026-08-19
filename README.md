@@ -58,51 +58,51 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      14 hrs 53 mins      ██████████████░░░░░░░░░░░   56.78 % 
-TypeScript               5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-JSON                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Vue                      11 hrs 9 mins       ██████████████░░░░░░░░░░░   57.07 % 
+TypeScript               3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 38 mins      ███████████████████░░░░░░   74.83 % 
-Claude Code              6 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Cursor                   15 hrs              ███████████████████░░░░░░   76.69 % 
+Claude Code              4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-coach-web-for-betterme   16 hrs 19 mins      ████████████████░░░░░░░░░   62.22 % 
-public-webcomponents     4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-bixin-classroom-client   4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-terminals                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-teacher-client-lite      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+coach-web-for-betterme   10 hrs 46 mins      ██████████████░░░░░░░░░░░   55.11 % 
+public-webcomponents     4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+bixin-classroom-client   3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+terminals                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+teacher-client-lite      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      26 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 42 mins (78.93%)
+⏱ AI Coding Time: 15 hrs 25 mins (78.88%)
 
-✍️ 2,796 lines written by AI, 141 lines written by hand (95.2% AI-written)
+✍️ 1,667 lines written by AI, 24 lines written by hand (98.58% AI-written)
 
-🔤 8,897,999 Input Tokens, 851,298 Output Tokens
+🔤 6,161,058 Input Tokens, 628,739 Output Tokens
 
-💵 $117.79 Estimated AI Cost This Week
+💵 $73.68 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 315 AI Prompts
+🧠 52 AI Sessions, 236 AI Prompts
 
-Composer                 858 lines           ████████████████░░░░░░░░░   62.22 % 
-GPT                      510 lines           █████████░░░░░░░░░░░░░░░░   36.98 % 
-Sonnet                   11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+GPT                      510 lines           ███████████████░░░░░░░░░░   60.00 % 
+Composer                 329 lines           ██████████░░░░░░░░░░░░░░░   38.71 % 
+Sonnet                   11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.2% of written lines came from AI
-📚 Verbose Prompter — average 4,332 characters per prompt
+🤖 AI-Driven — 98.58% of written lines came from AI
+📚 Verbose Prompter — average 5,579 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.59% of changed lines were hand-edited
+🚀 High AI Trust — 12.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,5 +122,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 09:00:29 UTC
+ Last Updated on 19/08/2026 09:02:31 UTC
 <!--END_SECTION:waka-->
