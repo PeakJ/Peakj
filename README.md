@@ -58,41 +58,41 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
-JSON                     6 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Vue                      4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+TypeScript               9 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
+JSON                     6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+Vue                      4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Markdown                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 44 mins      ████████████████████░░░░░   79.21 % 
-Claude Code              3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Agent                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Cursor                   19 hrs 19 mins      ████████████████████░░░░░   78.90 % 
+Claude Code              3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Agent                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   19 hrs 49 mins      ████████████████████░░░░░   79.54 % 
-coach-web-for-betterme   4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-gen-painting-pic         25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-you                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-terminals                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+bixin-classroom-client   19 hrs 26 mins      ████████████████████░░░░░   79.40 % 
+coach-web-for-betterme   4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+gen-painting-pic         25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+you                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+terminals                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Mac                      24 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 11 mins (76.98%)
+⏱ AI Coding Time: 18 hrs 45 mins (76.57%)
 
 ✍️ 3,968 lines written by AI, 56 lines written by hand (98.61% AI-written)
 
-🔤 6,227,302 Input Tokens, 1,252,107 Output Tokens
+🔤 6,194,871 Input Tokens, 1,219,676 Output Tokens
 
-💵 $275.80 Estimated AI Cost This Week
+💵 $275.21 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 316 AI Prompts
+🧠 61 AI Sessions, 304 AI Prompts
 
 Composer                 1,351 lines         ██████████████████░░░░░░░   73.91 % 
 Grok                     477 lines           ███████░░░░░░░░░░░░░░░░░░   26.09 % 
@@ -100,7 +100,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.61% of written lines came from AI
-📚 Verbose Prompter — average 10,092 characters per prompt
+📚 Verbose Prompter — average 10,063 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 6.65% of changed lines were hand-edited
 ```
@@ -122,5 +122,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 13:52:42 UTC
+ Last Updated on 31/08/2026 16:15:40 UTC
 <!--END_SECTION:waka-->
