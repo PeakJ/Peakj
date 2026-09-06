@@ -13,9 +13,9 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C883%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C884%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,51 +58,51 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
-Vue                      4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Markdown                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-JSON                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TypeScript               6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
+Vue                      4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+JSON                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 1 min        ████████████████████░░░░░   79.80 % 
-Claude Code              3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Codex Vscode             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Agent                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Cursor                   16 hrs 21 mins      ████████████████████░░░░░   80.29 % 
+Claude Code              3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Codex Vscode             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Agent                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   16 hrs 33 mins      ███████████████████░░░░░░   77.55 % 
-coach-web-for-betterme   3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-qiwei-report             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-public-webcomponents     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-code_space               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+bixin-classroom-client   15 hrs 16 mins      ███████████████████░░░░░░   75.03 % 
+coach-web-for-betterme   3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+qiwei-report             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+public-webcomponents     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+gen-painting-pic         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      21 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 16 mins (80.92%)
+⏱ AI Coding Time: 15 hrs 58 mins (78.46%)
 
-✍️ 3,555 lines written by AI, 94 lines written by hand (97.42% AI-written)
+✍️ 3,165 lines written by AI, 54 lines written by hand (98.32% AI-written)
 
-🔤 8,011,174 Input Tokens, 4,773,899 Output Tokens
+🔤 8,059,649 Input Tokens, 4,790,991 Output Tokens
 
-💵 $114.89 Estimated AI Cost This Week
+💵 $115.29 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 289 AI Prompts
+🧠 64 AI Sessions, 258 AI Prompts
 
-Grok                     1,178 lines         █████████████████░░░░░░░░   67.39 % 
-GPT                      286 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Composer                 284 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Grok                     701 lines           ██████████████░░░░░░░░░░░   55.15 % 
+GPT                      286 lines           ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Composer                 284 lines           ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.42% of written lines came from AI
-📚 Verbose Prompter — average 61,217 characters per prompt
+🤖 AI-Driven — 98.32% of written lines came from AI
+📚 Verbose Prompter — average 69,403 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.8% of changed lines were hand-edited
+🚀 High AI Trust — 2.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,5 +122,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 11:53:58 UTC
+ Last Updated on 06/09/2026 12:13:01 UTC
 <!--END_SECTION:waka-->
