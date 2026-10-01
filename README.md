@@ -58,48 +58,47 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      2 hrs 2 mins        ██████████████░░░░░░░░░░░   57.62 % 
-JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-TypeScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Vue                      1 hr 31 mins        ██████████████░░░░░░░░░░░   54.49 % 
+TypeScript               34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       ████████████████████░░░░░   80.67 % 
-Cursor                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Agent                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+VS Code                  2 hrs 18 mins       █████████████████████░░░░   82.62 % 
+Cursor                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Agent                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
-coach-web-for-betterme   1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   37.49 % 
-public-webcomponents     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-qiwei-report             22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+bixin-classroom-client   1 hr 20 mins        ████████████░░░░░░░░░░░░░   48.07 % 
+coach-web-for-betterme   48 mins             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+qiwei-report             22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+public-webcomponents     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (36.84%)
+⏱ AI Coding Time: 1 hr 1 min (36.9%)
 
-✍️ 311 lines written by AI, 2 lines written by hand (99.36% AI-written)
+✍️ 13 lines written by AI, 2 lines written by hand (86.67% AI-written)
 
-🔤 246,860 Input Tokens, 18,684 Output Tokens
+🔤 198,918 Input Tokens, 9,715 Output Tokens
 
 💵 $5.95 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 39 AI Prompts
+🧠 5 AI Sessions, 36 AI Prompts
 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.36% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.51% of changed lines were hand-edited
+🤖 AI-Driven — 86.67% of written lines came from AI
+📝 Concise Prompter — average 24 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 38.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,5 +118,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 15:02:09 UTC
+ Last Updated on 01/10/2026 15:33:07 UTC
 <!--END_SECTION:waka-->
