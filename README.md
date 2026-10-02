@@ -13,9 +13,9 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C936%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C936%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -58,47 +58,44 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      1 hr 31 mins        ██████████████░░░░░░░░░░░   54.49 % 
-TypeScript               34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JSON                     13 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Markdown                 13 mins             ████████░░░░░░░░░░░░░░░░░   31.72 % 
+JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Vue                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████░░░░   82.62 % 
-Cursor                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Agent                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Cursor                   39 mins             ███████████████████████░░   91.55 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Agent                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   1 hr 20 mins        ████████████░░░░░░░░░░░░░   48.07 % 
-coach-web-for-betterme   48 mins             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-qiwei-report             22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-public-webcomponents     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+coach-web-for-betterme   22 mins             █████████████░░░░░░░░░░░░   52.65 % 
+bixin-classroom-client   14 mins             █████████░░░░░░░░░░░░░░░░   34.44 % 
+qiwei-report             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (36.9%)
+⏱ AI Coding Time: 37 mins (87.09%)
 
-✍️ 13 lines written by AI, 2 lines written by hand (86.67% AI-written)
+✍️ 13 lines written by AI, 1 lines written by hand (92.86% AI-written)
 
-🔤 198,918 Input Tokens, 9,715 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $5.95 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 36 AI Prompts
-
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 3 AI Sessions, 9 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.67% of written lines came from AI
-📝 Concise Prompter — average 24 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 38.1% of changed lines were hand-edited
+🤖 AI-Driven — 92.86% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 27.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,5 +115,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 15:33:07 UTC
+ Last Updated on 02/10/2026 14:50:19 UTC
 <!--END_SECTION:waka-->
