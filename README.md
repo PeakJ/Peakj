@@ -13,9 +13,9 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C936%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -58,40 +58,47 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     13 mins             ███████████████░░░░░░░░░░   60.69 % 
-Markdown                 6 mins              ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Vue                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+TypeScript               23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Markdown                 21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 🔥 Editors: 
-Cursor                   22 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 23 mins        ████████████████████░░░░░   80.48 % 
+Claude Code              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Agent                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🐱‍💻 Projects: 
-coach-web-for-betterme   22 mins             █████████████████████████   100.00 % 
+bixin-classroom-client   56 mins             ██████████████░░░░░░░░░░░   54.18 % 
+coach-web-for-betterme   22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+bixin_classroom_crash_rep18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+agent-tools              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (100.0%)
+⏱ AI Coding Time: 1 hr 39 mins (96.62%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 55 lines written by AI, 1 lines written by hand (98.21% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 94,190 Input Tokens, 29,353 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $10.49 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 5 AI Sessions, 30 AI Prompts
+
+GLM                      128 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 24 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 98.21% of written lines came from AI
+📝 Concise Prompter — average 107 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +118,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 15:39:48 UTC
+ Last Updated on 08/10/2026 15:44:58 UTC
 <!--END_SECTION:waka-->
