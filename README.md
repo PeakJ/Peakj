@@ -13,9 +13,9 @@
 ![](https://s2.ax1x.com/2019/06/28/ZKxc4J.jpg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C940%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-295%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -58,47 +58,49 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-TypeScript               23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Markdown                 21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+TypeScript               47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+JavaScript               44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Vue                      43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Markdown                 43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-Cursor                   1 hr 23 mins        ████████████████████░░░░░   80.48 % 
-Claude Code              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Agent                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Cursor                   2 hrs 24 mins       ███████████████████░░░░░░   75.11 % 
+Claude Code              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Agent                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🐱‍💻 Projects: 
-bixin-classroom-client   56 mins             ██████████████░░░░░░░░░░░   54.18 % 
-coach-web-for-betterme   22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-bixin_classroom_crash_rep18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-agent-tools              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+bixin-classroom-client   1 hr 49 mins        ██████████████░░░░░░░░░░░   57.10 % 
+bixin_classroom_crash_rep54 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+qiwei-report             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+agent-tools              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+betterme-aggregation-work3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (96.62%)
+⏱ AI Coding Time: 2 hrs 21 mins (73.34%)
 
-✍️ 55 lines written by AI, 1 lines written by hand (98.21% AI-written)
+✍️ 55 lines written by AI, 2 lines written by hand (96.49% AI-written)
 
 🔤 94,190 Input Tokens, 29,353 Output Tokens
 
 💵 $10.49 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 30 AI Prompts
+🧠 7 AI Sessions, 40 AI Prompts
 
 GLM                      128 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.21% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
+🤖 AI-Driven — 96.49% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🚀 High AI Trust — 3.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,5 +120,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PeakJ/PeakJ/master/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 15:44:58 UTC
+ Last Updated on 09/10/2026 15:23:59 UTC
 <!--END_SECTION:waka-->
